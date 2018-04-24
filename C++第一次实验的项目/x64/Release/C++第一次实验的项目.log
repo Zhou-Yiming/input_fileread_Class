@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  C++第一次实验的项目.cpp
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\c++第一次实验的项目.cpp(11): warning C4326: “main”的返回类型应为“int”而非“void”
+  CMypoint.cpp
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  FileReadTest.cpp
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\filereadtest.cpp(8): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\filereadtest.cpp(9): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\filereadtest.cpp(31): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\filereadtest.cpp(32): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  InputTest.cpp
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\cmypoint.cpp(60): warning C4715: “CMypoint::CMycaculate”: 不是所有的控件路径都返回值
+  All 141 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  C++第一次实验的项目.vcxproj -> C:\Users\周一鸣\OneDrive\c++\C++第一次实验的项目\x64\Release\C++第一次实验的项目.exe

@@ -1,1 +1,4 @@
-﻿  C++第一次实验的项目.vcxproj -> C:\Users\周一鸣\OneDrive\c++\C++第一次实验的项目\Debug\C++第一次实验的项目.exe
+﻿  CMypoint.cpp
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\周一鸣\onedrive\c++\c++第一次实验的项目\c++第一次实验的项目\cmypoint.cpp(60): warning C4715: “CMypoint::CMycaculate”: 不是所有的控件路径都返回值
+  C++第一次实验的项目.vcxproj -> C:\Users\周一鸣\OneDrive\c++\C++第一次实验的项目\Debug\C++第一次实验的项目.exe
